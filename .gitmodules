@@ -1,0 +1,6 @@
+[submodule "libs/agg-kicad"]
+	path = libs/agg-kicad
+	url = https://github.com/adamgreig/agg-kicad.git
+[submodule "libs/marbastlib"]
+	path = libs/marbastlib
+	url = https://github.com/ebastler/marbastlib.git
