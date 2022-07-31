@@ -2,4 +2,5 @@
   (lib (name "marbastlib-mx")(type "KiCad")(uri "${KIPRJMOD}/libs/marbastlib/marbastlib-mx.pretty")(options "")(descr ""))
   (lib (name "marbastlib-various")(type "KiCad")(uri "${KIPRJMOD}/libs/marbastlib/marbastlib-various.pretty")(options "")(descr ""))
   (lib (name "agg")(type "KiCad")(uri "${KIPRJMOD}/libs/agg-kicad/agg.pretty")(options "")(descr ""))
+  (lib (name "kbd")(type "KiCad")(uri "${KIPRJMOD}/libs/kbd/kicad-footprints/kbd.pretty")(options "")(descr ""))
 )

@@ -2,4 +2,5 @@
   (lib (name "marbastlib-various")(type "KiCad")(uri "${KIPRJMOD}/libs/marbastlib/marbastlib-various.kicad_sym")(options "")(descr ""))
   (lib (name "marbastlib-mx")(type "KiCad")(uri "${KIPRJMOD}/libs/marbastlib/marbastlib-mx.kicad_sym")(options "")(descr ""))
   (lib (name "agg-kicad")(type "KiCad")(uri "${KIPRJMOD}/libs/agg-kicad/agg-kicad.kicad_sym")(options "")(descr ""))
+  (lib (name "kbd")(type "Legacy")(uri "${KIPRJMOD}/libs/kbd/kicad-symbols/kbd.lib")(options "")(descr ""))
 )
