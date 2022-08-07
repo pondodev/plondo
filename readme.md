@@ -7,3 +7,6 @@ thing. i'm going to do it anyway.
 
 if you're missing symbols/footprints then make sure you run `git submodule init && git submodule update` to pull the
 relevant libraries down.
+
+this keyboard derives from the [plaid](https://github.com/hsgw/plaid) and the
+[mysterium](https://github.com/coseyfannitutti/mysterium).
