@@ -1,5 +1,7 @@
 # plondo
 
+![plondo pcb](images/pcb.png)
+
 a plaid inspired 4x12 ortholinear keyboard with a rotary encoder and oled panel.
 
 building plondo? then start at the [BOM](docs/1-bom.md)!
