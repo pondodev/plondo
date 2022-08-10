@@ -175,7 +175,7 @@
 
   (footprint "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm" (layer "F.Cu")
     (tedit 5A74C8CB) (tstamp 05044c9d-691d-4efb-abb4-9129939619b8)
-    (at 254.37 50.84)
+    (at 240.4 55.158)
     (descr "Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html")
     (tags "rotary encoder")
     (property "Sheetfile" "key_matrix.kicad_sch")
@@ -241,7 +241,7 @@
 
   (footprint "Package_DIP:DIP-40_W15.24mm_Socket" (layer "F.Cu")
     (tedit 5A02E8C5) (tstamp 05f5d255-4eec-445a-a4e0-01c78688f0e0)
-    (at 217.17 43.18 -90)
+    (at 211.069 44.572 -90)
     (descr "40-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), Socket")
     (tags "THT DIP DIL PDIP 2.54mm 15.24mm 600mil Socket")
     (property "Sheetfile" "plondo.kicad_sch")
@@ -372,7 +372,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tedit 5AE50CD5) (tstamp 06209c23-46ce-4ee2-8536-d264ad1b19a5)
-    (at 226.695 40.64 90)
+    (at 226.314 40.64 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "plondo.kicad_sch")
@@ -1656,7 +1656,7 @@
 
   (footprint "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm" (layer "F.Cu")
     (tedit 5AE50EF0) (tstamp 1b75dc5c-6ef6-4ea9-8170-506752993e68)
-    (at 190.54 61.595)
+    (at 184.439 62.987)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=5*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 5mm width 2.5mm Capacitor")
     (property "Sheetfile" "plondo.kicad_sch")
@@ -1884,7 +1884,7 @@
 
   (footprint "agg:USB4085" (layer "F.Cu")
     (tedit 5CC7775C) (tstamp 2159c29f-7024-41c7-a115-044a995e99a0)
-    (at 243.84 37.02 180)
+    (at 237.236 37.274 180)
     (property "Farnell" "2924867")
     (property "Sheetfile" "plondo.kicad_sch")
     (property "Sheetname" "")
@@ -2140,7 +2140,7 @@
 
   (footprint "LED_THT:LED_D3.0mm" (layer "F.Cu")
     (tedit 587A3A7B) (tstamp 2c931829-0e88-4dcd-818f-9ba92810eed4)
-    (at 236.22 55.245 180)
+    (at 229.997 56.383 180)
     (descr "LED, diameter 3.0mm, 2 pins")
     (tags "LED diameter 3.0mm 2 pins")
     (property "Sheetfile" "plondo.kicad_sch")
@@ -2181,7 +2181,7 @@
 
   (footprint "kbd:M2_Hole_TH" (layer "F.Cu")
     (tedit 5F7666C1) (tstamp 2ccd98a5-d8ac-4a38-bf58-9e8977b43c37)
-    (at 31.496 33.909)
+    (at 31.496 34.036)
     (attr through_hole)
     (fp_text reference "REF**" (at 0 0.5) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2258,7 +2258,7 @@
 
   (footprint "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm" (layer "F.Cu")
     (tedit 5AE50EF0) (tstamp 2e0659f7-5272-41f6-a0c0-cb05918c1669)
-    (at 200.66 34.965 -90)
+    (at 194.559 36.357 -90)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=5*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 5mm width 2.5mm Capacitor")
     (property "Sheetfile" "plondo.kicad_sch")
@@ -2555,7 +2555,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" (layer "F.Cu")
     (tedit 5AE5139B) (tstamp 367df25c-fd6b-444a-95a4-e121471e4668)
-    (at 241.935 51.435 -90)
+    (at 213.614 32.766 -90)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (property "Sheetfile" "plondo.kicad_sch")
@@ -2620,7 +2620,7 @@
 
   (footprint "plondo:plondo" (layer "F.Cu")
     (tedit 0) (tstamp 403b7b3e-786a-486b-82a5-76f2fd862c94)
-    (at 261.62 38.1)
+    (at 249.428 43.688)
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "G***" (at 0 0) (layer "F.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.3)))
@@ -3476,7 +3476,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" (layer "F.Cu")
     (tedit 5AE5139B) (tstamp 4111ceaa-5d2f-4d3a-a0c2-124cbbf82f81)
-    (at 165.1 52.705 180)
+    (at 87.884 39.497 180)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (property "Sheetfile" "plondo.kicad_sch")
@@ -3768,7 +3768,7 @@
 
   (footprint "kbd:M2_Hole_TH" (layer "F.Cu")
     (tedit 5F7666C1) (tstamp 4cb204f9-7692-476c-9bc7-9d0d9e957d95)
-    (at 268.224 34.036)
+    (at 254.254 34.036)
     (attr through_hole)
     (fp_text reference "REF**" (at 0 0.5) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4172,7 +4172,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" (layer "F.Cu")
     (tedit 5AE5139B) (tstamp 63c09c18-b333-479b-9d41-b9158f6e020e)
-    (at 165.1 46.355 180)
+    (at 153.035 42.926 180)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (property "Sheetfile" "plondo.kicad_sch")
@@ -4220,7 +4220,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" (layer "F.Cu")
     (tedit 5AE5139B) (tstamp 63c992dd-7d59-47a0-af78-d3a4af65e207)
-    (at 245.745 59.055 90)
+    (at 216.916 40.386 90)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (property "Sheetfile" "plondo.kicad_sch")
@@ -4347,7 +4347,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" (layer "F.Cu")
     (tedit 5AE5139B) (tstamp 68645906-210c-4bf6-970b-47eca0166e24)
-    (at 220.98 55.88)
+    (at 214.757 57.018)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (property "Sheetfile" "plondo.kicad_sch")
@@ -4484,7 +4484,7 @@
 
   (footprint "Capacitor_THT:C_Disc_D7.5mm_W4.4mm_P5.00mm" (layer "F.Cu")
     (tedit 5AE50EF0) (tstamp 6f623eea-adab-4d89-aa8b-57239bab6b2e)
-    (at 196.215 39.965 90)
+    (at 190.114 41.357 90)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=7.5*4.4mm^2, Capacitor")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 7.5mm width 4.4mm Capacitor")
     (property "Sheetfile" "plondo.kicad_sch")
@@ -4590,7 +4590,7 @@
 
   (footprint "Crystal:Resonator-2Pin_W10.0mm_H5.0mm" (layer "F.Cu")
     (tedit 5A0FD1B2) (tstamp 74e44349-0fa7-4c16-a435-5a79d692f11e)
-    (at 185.425 38.105)
+    (at 179.324 39.497)
     (descr "Ceramic Resomator/Filter 10.0x5.0 RedFrequency MG/MT/MX series, http://www.red-frequency.com/download/datenblatt/redfrequency-datenblatt-ir-zta.pdf, length*width=10.0x5.0mm^2 package, package length=10.0mm, package width=5.0mm, 2 pins")
     (tags "THT ceramic resonator filter")
     (property "Sheetfile" "plondo.kicad_sch")
@@ -4679,7 +4679,7 @@
 
   (footprint "Capacitor_THT:CP_Radial_D4.0mm_P1.50mm" (layer "F.Cu")
     (tedit 5AE50EF0) (tstamp 815af417-a245-4c75-9f20-46657344d16c)
-    (at 234.95 48.895 90)
+    (at 228.727 50.033 90)
     (descr "CP, Radial series, Radial, pin pitch=1.50mm, , diameter=4mm, Electrolytic Capacitor")
     (tags "CP Radial series Radial pin pitch 1.50mm  diameter 4mm Electrolytic Capacitor")
     (property "Sheetfile" "plondo.kicad_sch")
@@ -4811,7 +4811,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" (layer "F.Cu")
     (tedit 5AE5139B) (tstamp 85c2de3e-c3f9-4dbc-a5c5-053b5b5f80cd)
-    (at 165.1 55.88 180)
+    (at 87.884 42.672 180)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (property "Sheetfile" "plondo.kicad_sch")
@@ -4983,7 +4983,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" (layer "F.Cu")
     (tedit 5AE5139B) (tstamp 9ac9bb0a-3975-42eb-9949-8f43109c9f44)
-    (at 165.1 49.53 180)
+    (at 87.884 36.322 180)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (property "Sheetfile" "plondo.kicad_sch")
@@ -5093,7 +5093,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" (layer "F.Cu")
     (tedit 5AE5139B) (tstamp a3b37e09-8fab-4aa1-8051-334451aabb62)
-    (at 228.6 46.355 180)
+    (at 222.377 47.493 180)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (property "Sheetfile" "plondo.kicad_sch")
@@ -5265,14 +5265,14 @@
 
   (footprint "Fuse:Fuse_Littelfuse_395Series" (layer "F.Cu")
     (tedit 5A1C8B31) (tstamp a8d7d4ba-7c75-49cd-8ff9-6d91d1862a55)
-    (at 246.38 45.72 180)
+    (at 239.776 45.974 180)
     (descr "Fuse, TE5, Littelfuse/Wickmann, No. 460, No560,")
     (tags "Fuse TE5 Littelfuse/Wickmann No. 460 No560 ")
     (property "Sheetfile" "plondo.kicad_sch")
     (property "Sheetname" "")
     (path "/4a2d7a4d-63d2-4e49-ba54-139faaa3fb67")
     (attr through_hole)
-    (fp_text reference "F1" (at 2.65 -2.95) (layer "F.SilkS")
+    (fp_text reference "F1" (at 2.54 3.048) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp e2d3c7c1-12de-4ddc-8039-963049e26d8c)
     )
@@ -5309,7 +5309,7 @@
 
   (footprint "Capacitor_THT:C_Disc_D7.5mm_W4.4mm_P5.00mm" (layer "F.Cu")
     (tedit 5AE50EF0) (tstamp aa53c8e9-7a43-4cbf-8f27-45c09bf3edac)
-    (at 179.705 39.965 90)
+    (at 173.604 41.357 90)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=7.5*4.4mm^2, Capacitor")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 7.5mm width 4.4mm Capacitor")
     (property "Sheetfile" "plondo.kicad_sch")
@@ -5961,7 +5961,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" (layer "F.Cu")
     (tedit 5AE5139B) (tstamp d4892da8-d94b-46f9-9858-6779eac870bd)
-    (at 228.6 49.535 180)
+    (at 222.377 50.673 180)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (property "Sheetfile" "plondo.kicad_sch")
@@ -6133,7 +6133,7 @@
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical" (layer "F.Cu")
     (tedit 59FED5CC) (tstamp e545444f-f79f-49c7-a374-32b5dd8fe0bf)
-    (at 206.39 38.74 90)
+    (at 200.289 40.132 90)
     (descr "Through hole straight pin header, 2x03, 2.54mm pitch, double rows")
     (tags "Through hole pin header THT 2x03 2.54mm double row")
     (property "Sheetfile" "plondo.kicad_sch")
@@ -6190,7 +6190,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" (layer "F.Cu")
     (tedit 5AE5139B) (tstamp e6df2509-3846-457f-8171-82086cbe7f62)
-    (at 228.6 52.705 180)
+    (at 222.377 53.843 180)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (property "Sheetfile" "plondo.kicad_sch")
@@ -10894,7 +10894,7 @@
   (gr_arc (start 255.251949 30.48) (mid 257.048 31.223949) (end 257.791949 33.02) (layer "Edge.Cuts") (width 0.1) (tstamp d5b75796-aed9-4cf9-8d3d-567c9f7e2425))
   (gr_line (start 27.94 140.189949) (end 27.94 33.02) (layer "Edge.Cuts") (width 0.1) (tstamp e14001d4-dfc2-4ff0-acd5-643949a9c1f2))
   (gr_line (start 257.791949 33.02) (end 257.791949 140.189949) (layer "Edge.Cuts") (width 0.1) (tstamp ef8c947f-38a8-4b3a-8995-6fd3610df278))
-  (gr_text "if you are reading\nthis then someone\nflogged your\natmega32a" (at 193.04 50.8) (layer "F.SilkS") (tstamp 92b3a64a-672a-4141-a0a9-76cf11e44d0b)
+  (gr_text "if you are reading\nthis then someone\nflogged your\natmega32a" (at 186.939 52.192) (layer "F.SilkS") (tstamp 92b3a64a-672a-4141-a0a9-76cf11e44d0b)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (gr_text "229.852mm\n" (at 152.654 158.496) (layer "Eco1.User") (tstamp 33314367-b94d-4a13-a19a-4f0ff8cfb9aa)
